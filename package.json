@@ -1,6 +1,12 @@
 {
   "devDependencies": {
     "beefy": "^2.1.1",
+    "fc": "^1.4.0",
     "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "ctx-get-transform": "^1.0.0",
+    "gl-matrix-mat3": "^2.2.1-npm",
+    "gl-matrix-vec2": "^2.2.1-npm"
   }
 }
